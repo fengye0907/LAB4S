@@ -66,7 +66,6 @@ linreg <- setRefClass("linreg",
       beta <<- solve(R)%*%t(Q)%*%y
       var_hat <<- var_resid*solve(R)%*%t(solve(R))
     },
-
     #Regressions coefficients
     coef = function(){
       return(beta)
