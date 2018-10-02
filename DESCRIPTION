@@ -1,11 +1,10 @@
 Package: LAB4S
 Type: Package
-Title: What the Package Does (Title Case)
+Title: LAB4S_linreg
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: Group10
+Maintainer: Zijie Feng <zijfe244@student.liu.se>
+Description: This package contains all the functions for the linear regression model.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
