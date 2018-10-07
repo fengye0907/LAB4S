@@ -1,6 +1,6 @@
 ---
 title: "linreg"
-author: "Zijie Feng"
+author: "Group10"
 date: "`r Sys.Date()`"
 output: rmarkdown::html_vignette
 vignette: >
