@@ -7,5 +7,5 @@ This package contains all the functions for the Advanced Programming in R.
 
 # Installation
 ``
-    devtools::install_github("fengye0907/LAB4S")
+    devtools::install_github("fengye0907/LAB4S", build_vignettes = TRUE)
 ``
