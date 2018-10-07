@@ -2,7 +2,7 @@
     library(LAB4S)
 
 ## ------------------------------------------------------------------------
-example <- linreg$new(formula = Petal.Length~Species, data = iris)
+example <- linreg(formula = Petal.Length~Species, data = iris)
 
 ## ------------------------------------------------------------------------
 example$print()

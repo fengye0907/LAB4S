@@ -23,7 +23,7 @@ This package contains an RC class with all the functions that we need for the la
 To start with, we can use the initialize method to input formula and data
 
 ```{r}
-example <- linreg$new(formula = Petal.Length~Species, data = iris)
+example <- linreg(formula = Petal.Length~Species, data = iris)
 ```
 
 The `print()` method can print out the coefficients and coefficient names.
